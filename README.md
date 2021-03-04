@@ -8,3 +8,5 @@ Actividades Minería de Datos
 [Base de Datos](https://github.com/vladimirmtz/MineriaDatos-002-FCFM/blob/main/Ej1_BaseDeDatos_Equipo_5.pdf)
 
 [Ejercicios Python](https://github.com/KarlaRodriguez-FCFM/MineriadedatosFCFM/blob/main/Ej_Python_1801994.ipynb)
+
+[Primer Avance del PIA](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Avance1_PIA_Equipo5.ipynb)
