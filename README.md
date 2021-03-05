@@ -11,4 +11,4 @@ Actividades Minería de Datos
 
 [Primer Avance del PIA](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Avance1_PIA_Equipo5.ipynb)
 
-[Limpieza de datos] (https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ej_Limpieza_Equipo5.ipynb)
+[Limìeza de datos](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ej_Limpieza_Equipo5.ipynb)
