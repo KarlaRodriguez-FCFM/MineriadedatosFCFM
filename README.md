@@ -10,3 +10,5 @@ Actividades Minería de Datos
 [Ejercicios Python](https://github.com/KarlaRodriguez-FCFM/MineriadedatosFCFM/blob/main/Ej_Python_1801994.ipynb)
 
 [Primer Avance del PIA](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Avance1_PIA_Equipo5.ipynb)
+
+[Limpieza de datos] (https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ej_Limpieza_Equipo5.ipynb)
