@@ -12,3 +12,13 @@ Actividades Minería de Datos
 [Primer Avance del PIA](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Avance1_PIA_Equipo5.ipynb)
 
 [Limpieza de datos](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ej_Limpieza_Equipo5.ipynb)
+
+
+##Fase 2
+[Tecnica Mineria](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Presentacion_Arboles_de_Decision_Equipo-5.pdf)
+
+[Calificaciones de la tecnica de mineria](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ejemplo%20clasificacion.ipynb)
+
+[Ejemplo de clasificacion](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ejemplo%20clasificacion.ipynb)
+
+[Ejemplo regresion](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ejemplo%20regresion.ipynb]
