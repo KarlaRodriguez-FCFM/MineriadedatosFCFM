@@ -23,3 +23,4 @@ Actividades Minería de Datos
 [Ejemplo clasificacion](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ejemplo%20clasificacion.ipynb]
 
 [Ejemplo de regresion](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ejemplo%20regresion.ipynb)
+
