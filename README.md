@@ -15,10 +15,11 @@ Actividades Minería de Datos
 
 
 ##Fase 2
-[Tecnica Mineria](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Presentacion_Arboles_de_Decision_Equipo-5.pdf)
 
-[Calificaciones de la tecnica de mineria](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ejemplo%20clasificacion.ipynb)
+[Tecnica mineria](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Presentacion_Arboles_de_Decision_Equipo-5.pdf]
 
-[Ejemplo de clasificacion](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ejemplo%20clasificacion.ipynb)
+[Calificaciones Tecnica de mineria](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Calificacion_Arboles-de-Decision_Equipo-5.pdf]
 
-[Ejemplo regresion](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ejemplo%20regresion.ipynb]
+[Ejemplo clasificacion](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ejemplo%20clasificacion.ipynb]
+
+[Ejemplo de regresion](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ejemplo%20regresion.ipynb)
