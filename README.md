@@ -25,3 +25,7 @@ Actividades Minería de Datos
 [Ejemplo de regresion](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ejemplo%20regresion.ipynb)
 
 [Mapa mental 2](https://github.com/KarlaRodriguez-FCFM/MineriadedatosFCFM/blob/main/MapaMental_2_1801994.pdf)
+
+[Ejercicio de visualizacion](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Visualizaci%C3%B3n_5.ipynb)
+
+[Avance del PIA 2](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/AvancePIA_II_002_5.ipynb)
