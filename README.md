@@ -29,3 +29,5 @@ Actividades Minería de Datos
 [Ejercicio de visualizacion](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Visualizaci%C3%B3n_5.ipynb)
 
 [Avance del PIA 2](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/AvancePIA_II_002_5.ipynb)
+
+[Avance del PIA 2(CORRECIONES)](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/AvancePIA_II_002_5%2C%20correcion.ipynb)
