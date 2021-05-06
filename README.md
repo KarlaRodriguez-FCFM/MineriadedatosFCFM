@@ -31,3 +31,11 @@ Actividades Minería de Datos
 [Avance del PIA 2](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/AvancePIA_II_002_5.ipynb)
 
 [Avance del PIA 2(CORRECIONES)](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/AvancePIA_II_002_5%2C%20correcion.ipynb)
+
+## Fase 3
+[Imagenes del proyecto](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/tree/main/Imagenes%20proyecto)
+
+[Poster](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Poster%20(enfermedades%20cardiacas).pdf]
+
+[Programa final(https://github.com/vladimirmtz/MineriaDatos-002-FCFM/blob/main/Proyecto%20Final%20(2).ipynb]
+
